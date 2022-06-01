@@ -3,7 +3,7 @@
 # I am Nenita Norvalls. 
 ## Front-end Dev Student.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600"/>
 </div>
 
 <div id="badges" align="center">
