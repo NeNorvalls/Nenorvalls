@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-##I am Nenita Norvalls
-
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600"/>
+<div align="center">
+## I am Nenita Norvalls
+![myself](https://i.ibb.co/mGJ5xxj/ettenytten.jpg" alt="ettenytten" border="0")
 </div>
 
 Here are some ideas to get you started:
