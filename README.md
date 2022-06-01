@@ -2,10 +2,10 @@
 
 # I am Nenita Norvalls. 
 ## Front-end Dev Student
----
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="800"/>
 </div>
+
 <div id="badges" align="center">
   <a href="www.facebook.com">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=insragram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
  <div align="center">
    <img src="https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue" alt="" align="center"/>
 </div>
@@ -28,6 +29,10 @@
 </div>
 
 ---
+
+## :woman_technologist: About Me :
+
+### :hammer_and_wrench: Languages and Tools :
 
 Here are some ideas to get you started:
 
