@@ -50,9 +50,6 @@
    <a href="www.instagram.com">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=insragram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="www.gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 ---
