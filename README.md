@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**NeNorvalls/Nenorvalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am Nenita Norvalls
+
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600"/>
+</div>
 
 Here are some ideas to get you started:
 
