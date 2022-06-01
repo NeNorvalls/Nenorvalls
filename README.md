@@ -23,6 +23,14 @@
    <a href="www.instagram.com">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=insragram&logoColor=white" alt="Instagram Badge"/>
   </a>
+   <a href="www.linkedin.com">
+    <img src="https://img.shields.io/badge/linkedin-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LInkedIn Badge"/>
+  </a>
+   <a href="www.twitter.com">
+    <img src="https://img.shields.io/badge/twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+ 
 </div>
 
 ---
