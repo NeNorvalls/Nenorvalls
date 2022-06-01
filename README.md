@@ -1,8 +1,9 @@
 ### Hi there 👋
-<div align="center">
+
 ## I am Nenita Norvalls
-![myself](https://i.ibb.co/mGJ5xxj/ettenytten.jpg" alt="ettenytten" border="0")
-</div>
+
+![my self](https://i.ibb.co/mGJ5xxj/ettenytten.jpg" alt="ettenytten" border="0")
+
 
 Here are some ideas to get you started:
 
