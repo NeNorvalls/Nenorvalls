@@ -31,6 +31,13 @@
 ---
 
 ## :woman_technologist: About Me :
+### I am currenctly a fulltime student studying to be a front-end developer.
+### I am a Filipina, living in Norway for 7 years.
+### I have good skills on HTML, CSS, and Javascript.
+### I know about Wordpress and Adobe XD. 
+### I am an engage student who love to learn more about coding and languages.
+### I am very much interested to learn other languages and frameworks too.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
