@@ -1,5 +1,5 @@
-# Hey there 👋
-##I am Nenita Norvalls. 
+### Hey there 👋
+# I am Nenita Norvalls. 
 ## Front-end Dev Student. 
 
  <div align="center">
