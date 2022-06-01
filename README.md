@@ -3,7 +3,7 @@
 ##I am Nenita Norvalls 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="800"/>
 </div>
 <div id="badges" align="center">
   <a href="www.facebook.com">
@@ -18,6 +18,12 @@
    <a href="www.instagram.com">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=insragram&logoColor=white" alt="Instagram Badge"/>
   </a>
+</div>
+
+ ---
+ 
+ <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
 
