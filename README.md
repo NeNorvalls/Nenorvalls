@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div align="center>
-  I am Nenita Norvalls
-</div>
+
+##I am Nenita Norvalls align="center
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600"/>
