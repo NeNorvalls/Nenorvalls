@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-##I am Nenita Norvalls align="center
-
+##I am Nenita Norvalls 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges" align="center">
   <a href="www.facebook.com">
