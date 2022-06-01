@@ -2,6 +2,10 @@
 ##I am Nenita Norvalls. 
 ## Front-end Dev Student. 
 
+ <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="800"/>
 </div>
@@ -21,9 +25,6 @@
   </a>
 </div>
 
- <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue" alt="" align="center"/>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500"/>
