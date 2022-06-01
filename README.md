@@ -40,9 +40,6 @@
 ### I believe that things are achieve smoothly when you have patience for it. 
 ### A good developer are not scared to try and test their knowledge to fix certain challenges or issues.
 ### A good developer will not tired of seeking answers to fix a bug!
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  
@@ -53,4 +50,9 @@
 </div>
 
 ---
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nenorvalls&theme=dark&background=000000))](https://git.io streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nenorvalls)](https://github.com/anuraghazra/github-readme-stats)
 
