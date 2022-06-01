@@ -36,7 +36,11 @@
 ### I have good skills on HTML, CSS, and Javascript.
 ### I know about Wordpress and Adobe XD. 
 ### I am an engage student who love to learn more about coding and languages.
-### I am very much interested to learn other languages and frameworks too.
+### I am very much interested to learn other more advance languages and frameworks.
+### I believe that things are achieve smoothly when you have patience for it. 
+### A good developer are not scared to try and test their knowledge to fix certain challenges or issues.
+### A good developer will not tired of seeking answers to fix a bug!
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
