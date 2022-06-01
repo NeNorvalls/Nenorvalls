@@ -1,5 +1,6 @@
-# Hi, I am Nenita Norvalls. 👋
-## Front-end Dev Student.
+# Hey there 👋
+##I am Nenita Norvalls. 
+## Front-end Dev Student. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="800"/>
