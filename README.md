@@ -26,7 +26,7 @@
 ## :woman_technologist: About Me :
 ### Currently studying as a fulltime student to be a front-end developer.
 ### I am a Filipina, living in Norway for 7 years.
-### Have a skills on HTML, CSS, and Javascript.
+### Have skills on HTML, CSS, and Javascript.
 ### I have knowledge about Wordpress and Adobe XD. 
 ### My interest is to acquire more knowledge about designs, frameworks and languages.
 ### Eager to learn how to code properly.
