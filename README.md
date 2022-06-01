@@ -1,4 +1,4 @@
-### *Hi there* 👋
+### *Hi there!* 👋
 
 # I am Nenita Norvalls. 
 ## Front-end Dev Student
