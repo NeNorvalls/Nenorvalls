@@ -5,10 +5,7 @@
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="800"/>
 </div>
 
-<h1 align="center" >
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48px"/>
-</h1>
+---
 
  <div align="center">
    <img src="https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue" alt="" align="center"/>
@@ -29,11 +26,9 @@
 ### I am very much interested to learn other more advance languages and frameworks.
 ### I believe that things are achieve smoothly when you have patience for it. 
 ### A good developer are not scared to try and test their knowledge to fix certain challenges or issues.
-### A good developer will not tired of seeking answers to fix a bug!
-### :hammer_and_wrench: Languages and Tools :
+### A good developer will not tired of seeking answers to fix a bug.
 <div>
- 
- #### My knowledge so far
+ ### :hammer_and_wrench: My knowledge so far :
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
