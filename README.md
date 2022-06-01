@@ -1,11 +1,11 @@
 ### Hi there 👋
-
-## I am Nenita Norvalls
+<div align="center>
+  I am Nenita Norvalls
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="600"/>
 </div>
-
 <div id="badges" align="center">
   <a href="www.facebook.com">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
