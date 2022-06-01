@@ -28,12 +28,12 @@
 ---
 
 ## :woman_technologist: About Me :
-### I am currenctly a fulltime student studying to be a front-end developer.
+### Currently studying as a fulltime student to be a front-end developer.
 ### I am a Filipina, living in Norway for 7 years.
-### I have good skills on HTML, CSS, and Javascript.
-### I know about Wordpress and Adobe XD. 
-### I am an engage student who love to learn more about coding and languages.
-### I am very much interested to learn other more advance languages and frameworks.
+### Have a skills on HTML, CSS, and Javascript.
+### I have knowledge about Wordpress and Adobe XD. 
+### My interest is to acquire more knowledge about designs, frameworks and languages.
+### Eager to learn how to code properly.
 ### I believe that things are achieve smoothly when you have patience for it. 
 ### A good developer are not scared to try and test their knowledge to fix certain challenges or issues.
 ### A good developer will not tired of seeking answers to fix a bug.
