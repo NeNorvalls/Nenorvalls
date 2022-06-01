@@ -30,8 +30,8 @@
 ### I have knowledge about Wordpress and Adobe XD. 
 ### My interest is to acquire more knowledge about designs, frameworks and languages.
 ### Eager to learn how to code properly.
-### I play Chess game, but my pass time is coding.
-### Currently speaking Englisg, Norwegian ,Filipino and Romanian.
+### I play Chess game, but my passion is coding.
+### Currently speaking English, Norwegian ,Filipino and Romanian.
 ### I believe that things are achieve smoothly when you have patience for it. 
 ### A good developer are not scared to try and test their knowledge to fix certain challenges or issues.
 ### A good developer will not tired of seeking answers to fix a bug.
