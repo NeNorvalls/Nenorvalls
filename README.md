@@ -6,6 +6,10 @@
    <img src="https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="1000"/>
+</div>
+
 <div id="badges" align="center">
   <a href="www.facebook.com">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -19,11 +23,6 @@
    <a href="www.instagram.com">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=insragram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500"/>
 </div>
 
 ---
